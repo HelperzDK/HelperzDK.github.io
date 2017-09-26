@@ -148,7 +148,7 @@ body {
           size: 10px; }
   body .main {
     position: relative;
-    background: url("../img/mainbackground.png");
+    background: url("../img/mainbackground.jpg");
     background-repeat: no-repeat;
     background-position: 50% 0%;
     background-size: cover;
